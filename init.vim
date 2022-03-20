@@ -27,6 +27,7 @@ syntax on
 set colorcolumn=120
 set background=dark
 highlight ColorColumn ctermbg=0 guibg=lightgrey
+highlight Normal ctermbg=none
 set number
 set nowrap
 set smartcase
